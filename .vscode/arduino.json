@@ -1,0 +1,5 @@
+{
+    "sketch": "shannon-core-arduino.ino",
+    "board": "arduino:avr:uno",
+    "port": "/dev/tty.usbmodem14301"
+}
